@@ -2,6 +2,8 @@
 
 This guide shows an end-to-end setup of an AWS Panorama deployment from the physical device setup to deploying a sample notebook. It includes steps to specify a deployment in a particular AWS region.
 
+![Sample Output](panorama-bounding-box.png "Sample Output")
+
 ## Deploy AWS Panorama
 
 ### Prerequisites
@@ -127,10 +129,12 @@ In a terminal session on this Jupyter notebook server, run aws configure. This a
 
 ## Modify the AWS Panorama Sample - People Counter
 
-![Jupyter notebook](panorama-jupyter-notebook.png "Jupyter notebook")
+![Jupyter Notebook](panorama-jupyter-notebook.png "Jupyter Notebook")
 
 * Open the Juptyer notebook under:
 aws-panorama-samples/samples/people_counter/people_counter_tutorial.ipynb
+
+![Sample Application](panorama-sample-app.png "Sample Application")
 
 ### Code changes
 
