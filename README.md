@@ -1,4 +1,4 @@
-# A Comphrensive Guide for Deploying AWS Panorama
+# A Guide for Deploying AWS Panorama
 
 This guide shows an end-to-end setup of an AWS Panorama deployment from the physical device setup to deploying a sample notebook. It includes steps to specify a deployment in a particular AWS region.
 
