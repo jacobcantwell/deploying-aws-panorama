@@ -127,6 +127,8 @@ In a terminal session on this Jupyter notebook server, run aws configure. This a
 
 ## Modify the AWS Panorama Sample - People Counter
 
+![Jupyter notebook](panorama-jupyter-notebook.png "Jupyter notebook")
+
 * Open the Juptyer notebook under:
 aws-panorama-samples/samples/people_counter/people_counter_tutorial.ipynb
 
